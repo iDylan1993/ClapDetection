@@ -1,0 +1,18 @@
+﻿<Window x:Class="Clap_detection.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Clap_detection"
+        mc:Ignorable="d"
+          Title="Clap detection" Height="158.45" Width="214" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Content="Start" Height="23" HorizontalAlignment="Left" Margin="18,19,0,0" Name="Start" VerticalAlignment="Top" Width="163" Click="Start_Click" />
+        <Label Content="" Height="28" HorizontalAlignment="Left" Margin="94,45,0,0" Name="CurValue" VerticalAlignment="Top" />
+        <Label Content="" Height="28" HorizontalAlignment="Left" Margin="94,67,0,0" Name="maxValue" VerticalAlignment="Top" />
+        <Label Content="%" Height="28" HorizontalAlignment="Right" Margin="0,15,443,0" Name="ProcLabel" VerticalAlignment="Top" />
+        <Label Content="Current Value:" Height="28" HorizontalAlignment="Left" Margin="10,45,0,0" Name="CurLabel" VerticalAlignment="Top" />
+        <Label Content="Max Value:" Height="28" HorizontalAlignment="Left" Margin="10,67,0,0" Name="MaxLabel" VerticalAlignment="Top" />
+        <Label Content="Clap not detected" Height="28" HorizontalAlignment="Left" Margin="10,88,0,0" x:Name="ClapLabel" VerticalAlignment="Top" Width="193" />
+    </Grid>
+</Window>

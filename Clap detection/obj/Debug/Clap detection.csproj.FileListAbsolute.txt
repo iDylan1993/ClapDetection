@@ -1,0 +1,32 @@
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\Clap detection.csprojAssemblyReference.cache
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\MainWindow.g.cs
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\App.g.cs
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\Clap detection_MarkupCompile.cache
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\Clap detection_MarkupCompile.lref
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\bin\Debug\Clap detection.exe.config
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\bin\Debug\Clap detection.exe
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\bin\Debug\Clap detection.pdb
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\MainWindow.baml
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\Clap detection.g.resources
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\Clap_detection.Properties.Resources.resources
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\Clap detection.csproj.GenerateResource.cache
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\Clap detection.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\Clap detection.csproj.CopyComplete
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\Clap detection.exe
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\Clap detection\Clap detection\obj\Debug\Clap detection.pdb
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\Clap detection.csprojAssemblyReference.cache
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\MainWindow.g.cs
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\App.g.cs
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\Clap detection_MarkupCompile.cache
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\Clap detection_MarkupCompile.lref
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\Clap detection.exe
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\Clap detection.pdb
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\bin\Debug\Clap detection.exe.config
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\bin\Debug\Clap detection.exe
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\MainWindow.baml
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\Clap detection.g.resources
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\Clap_detection.Properties.Resources.resources
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\Clap detection.csproj.GenerateResource.cache
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\Clap detection.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\obj\Debug\Clap detection.csproj.CopyComplete
+C:\Users\Dylan\Dropbox\Projecten\Clap detection\Clap detection\bin\Debug\Clap detection.pdb
